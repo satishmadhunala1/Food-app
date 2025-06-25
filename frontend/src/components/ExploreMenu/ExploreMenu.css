@@ -7,6 +7,16 @@
 .explore-menu h1{
     color: #262626;
     font-weight: 500;
+    font-size: 36px;    
+    margin: 20px 0px;
+    
+}
+
+.explore-menu p{
+    color:rgb(15, 1, 1);
+    font-size: 20px;
+    max-width: 60%;
+    margin: 0px 0px 20px 0px;
 }
 
 .explore-menu-text{
