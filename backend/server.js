@@ -29,7 +29,7 @@ app.get("/",(req,res)=>{
         res.send("API working")
 })
 
-app.listen(process.env.PORT || 4000,()=>{
+app.listen(process.env.PORT || 5000,()=>{
     console.log(`Server started on http://localhost:${process.env.PORT || 4000}`)
 })
 
