@@ -12,7 +12,7 @@ import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 const AdminHome = () => {
-  const url = 'http://localhost:4000';
+  const url = 'https://food-app-backend-vyx3.onrender.com';
 
   return (
     <div className="admin-home">
