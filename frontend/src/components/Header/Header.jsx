@@ -8,12 +8,12 @@ const Header = () => {
     {
       title: 'Order your favourite food here',
       desc: 'Choose from a wide variety of cuisines and get your food delivered to your doorstep.',
-      img: 'https://img.freepik.com/free-photo/top-view-thanksgiving-food-border-composition-with-copy-space_23-2149114495.jpg?semt=ais_items_boosted&w=740'
+      img: 'https://t3.ftcdn.net/jpg/02/81/50/18/360_F_281501867_XI5OBa4UuGVxMbv5gNLCcCkPDjsX6r0U.jpg ' 
     },
     {
       title: 'Fast & Fresh Delivery',
       desc: 'Experience lightning-fast delivery with fresh, hot meals delivered on time.',
-      img: 'https://t3.ftcdn.net/jpg/02/81/50/18/360_F_281501867_XI5OBa4UuGVxMbv5gNLCcCkPDjsX6r0U.jpg'
+      img: 'https://img.freepik.com/free-photo/top-view-thanksgiving-food-border-composition-with-copy-space_23-2149114495.jpg?semt=ais_items_boosted&w=740'
     },
     {
       title: 'Delicious Meals Everyday',
