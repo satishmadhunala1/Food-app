@@ -3,7 +3,7 @@ import userModel from './../models/userModel.js';
 import Stripe from 'stripe';
 
 const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
-const frontend_url = 'http://localhost:5173'; // Change in production
+const frontend_url = 'https://food-app-frontend-jzem.onrender.com'; // Change in production
 
 // Place Order
 const placeOrder = async (req, res) => {
